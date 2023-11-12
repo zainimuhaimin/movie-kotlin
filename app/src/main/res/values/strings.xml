@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="siap_menonton">Siap Menonton ?</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="siap_menonto_desc">Siapkan Diri Anda\nUntuk Merasakan Adrenalin Menonton Film !</string>
+    <string name="stream_flix">streamsflix</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="angga_rizky">Anggarizky</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
